@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Lawkaz Energy Through Nature",
-    "currentPage": "index.html",
+    "currentPage": "Tribulus.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1013,7 +1013,7 @@
     },
     "articles.html": {
       "settings": {
-        "title": "articles heading",
+        "title": "Lawkaz Articles",
         "order": 2,
         "meta_descr": "Lawkaz Articles"
       },
