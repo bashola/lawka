@@ -905,6 +905,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "center"
+            },
+            ".card-title": {
+              "text-align": "center"
             }
           },
           "_name": "features17",
