@@ -1345,6 +1345,53 @@ a {
   border-radius: 4px;
   background-color: #fafafa;
 }
+.cid-ty6na9Hpa1 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-ty6na9Hpa1 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ty6na9Hpa1 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ty6na9Hpa1 .img-wrapper {
+  text-align: center;
+}
+.cid-ty6na9Hpa1 img {
+  margin: auto;
+  width: 140px;
+  padding-bottom: 2rem;
+}
+.cid-ty6na9Hpa1 .row {
+  align-items: flex-start;
+}
+.cid-ty6na9Hpa1 .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
+}
+@media (max-width: 992px) {
+  .cid-ty6na9Hpa1 .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-ty6na9Hpa1 .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ty6na9Hpa1 .card-wrapper {
+    padding: 1rem;
+  }
+}
 .cid-sLrShxaslK {
   padding-top: 5rem;
   padding-bottom: 2rem;
